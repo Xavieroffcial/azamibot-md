@@ -138,13 +138,13 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, isPrems, args, usedPr
 						title: `━ ━ ━ ━ 『 MAIN 』 ━ ━ ━ ━`,
 						rows: [
 							{title: '⚡ PREMIUM', rowId: usedPrefix + 'sewa', description: 'Premium, Sewabot, Jadibot, Jasa Run Bot'},
-							{title: '🎫 OWNER', rowId: usedPrefix + 'owner', description: 'Chat P tidak dibalas'},
-							{title: '📁 Source Code', rowId: usedPrefix + 'sc', description: 'Original Base'}
+							{title: '🎫 OWNER', rowId: usedPrefix + 'owner', description: 'Spam/Vc tidak ada di respon'},
+							{title: '📁 Source Code', rowId: usedPrefix + 'sc', description: 'Source Code Lynxx-MD'}
 						]
 					}, {
 						title: `━ ━ ━ ━ 『 SUB MENU 』 ━ ━ ━ ━`,
 						rows: [
-							{title: '🎪 ALL MENU', rowId: usedPrefix + 'menuall', description: '● Menampilkan Semua Menu'},
+							{title: '💬 ALL MENU', rowId: usedPrefix + 'menuall', description: '● Menampilkan Semua Menu'},
 							{title: '🎎 ANIME', rowId: usedPrefix + 'menuanime', description: '◉ Cari Manga, Anime, Random Pic'},
 							{title: '⌛ DOWNLOAD', rowId: usedPrefix + 'menudownload',  description: '◎ Youtube, Facebook, Tiktok, Dll...'},
 							{title: '🎮 GAMES & FUN', rowId: usedPrefix + 'menufun', description: '⊛ RPG, Kuis, Anonymous'},
