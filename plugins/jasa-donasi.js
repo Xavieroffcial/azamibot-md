@@ -1,14 +1,14 @@
 let handler =  m => m.reply(`
 ╭─「 🧚🏻‍♂️ *DONASI* 」
 │
-├ PULSA / OVO / DANA / GOPAY :
-├ • *082337245566*
+├ PULSA / OVO / GOPAY :
+├ • *083862006229*
 │
-├ SAWERIA
-├ _https://saweria.co/clicknetcafe_
+├ DANA :
+├ • *085962734007*
 │
 ├ Ownerku
-├ _wa.me/6282337245566_
+├ _wa.me/6283862006229_
 │
 ╰───「 ${packname} 」
 `.trim()) // Tambah sendiri kalo mau
