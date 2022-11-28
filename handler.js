@@ -9,7 +9,7 @@ import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 
 // Sticker WM
-global.packname = 'Azami x Byoru'
+global.packname = 'Shiro X Lynxx Mercy'
 global.author = 'Bot V5'
 
 //apikey
