@@ -3,35 +3,30 @@
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6283862006229
 
-╔╣ *PREMIUM USER*
-║ • Infinity Limit
-║ • Full Akses Private Chat
-╚══╣ *Harga :* Rp.10.000 / bulan
-
-╔╣ *SEWA BOT*
-║ • Dapat Premium
-║ • Bebas Invit ke 1 Grup
-╚══╣ *Harga :* Rp.15.000 / bulan
-
-╔╣ *JASA RUN BOT*
-║ • Nebeng Run SC Via RDP
-║ • SC wajib *plugin*, bukan case
-╚══╣ *Harga :* Rp.20.000 / bulan
-
-╔╣ *JADI BOT*
-║ • Jadi Bot Azami Always ON
-║ • Custom Namabot, Owner, rules, dll.
-║ • Bisa Req Tampilan atau Fitur
-╚══╣ *Harga :* Rp.25.000 / bulan
-
-- Pembayaran via *OVO / Dana / GoPay*
-  *( tidak ada opsi lain )*
-  ke nomor 082337245566
+*OPEN SEWABOT & JADIBOT*
+*⬇️LIST SEWABOT*
+_❐  1 BULAN : 8K_
+_❐  PERMANEN : 10k_
+_❐  PERMANEN + PREMIUM : 12K_
+*⬇️LIST JADIBOT*
+_❐  1 MINGGU : 12K_
+_❐  1 BULAN : 23K_
+_❐  2 BULAN : 28K_
+*_DI RUN MENGUNAKAN PANEL DI JAMIN ON 24 JAM + NO DELAY_*
+*⬇️KEUNTUNGAN SEWA*
+_❐  ON 24 JAM_
+_❐  FAST RESPON_
+_❐  NO DELAY_
+_❐  FITUR LANGKA_
+*⬇️GRUB BOT OFFICIAL*
+_https://chat.whatsapp.com/KV5vkfzBKR65C8gw7xJ5yC_
+Minat? Pm : https://wa.me/6283862006229
+- Pembayaran via *OVO / Dana / GoPay / Qris*
+  ke nomor 083862006229
 - Whatsapp Multi Device
-- Run via RDP (Always ON)
-- Request Fitur? *Chat Link Creator di atas.*`
+- Run via Panel
 	//m.reply(ini_txt)
 	command = command.toLowerCase()
 	conn.relayMessage(m.chat,  {
